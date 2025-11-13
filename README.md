@@ -2,6 +2,8 @@
 
 Automated code review tool for AI Scientist Challenge submissions using Claude Agent SDK.
 
+> **Important Notice:** This tool is provided for participants' self-review only and is NOT the official code scanner used by the organizing committee. Passing this tool's checks does not guarantee approval by the official review process. All submissions are subject to the official competition rules.
+
 ## Requirements
 
 - Node.js and npm (for Claude Code CLI)
